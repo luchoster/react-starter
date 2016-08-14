@@ -4,7 +4,7 @@ This is just a starting point to create a new React App with Webpack configurati
 
 In the project directory, you can run:
 
-### `npm dev`
+```npm dev```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
@@ -16,8 +16,8 @@ After creation, your project should look like this:
 ```
 my-app/
   README.md
-  index.html
   package.json
+  webpack.config.js
   app/
   	components/
   		hello-component.js
